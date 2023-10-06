@@ -1,4 +1,4 @@
-# CodeClauseInternship_CreditCardFraudDetection
+# Credit_Card_Fraud_Detection
 
 
 ## Dataset Link: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data
